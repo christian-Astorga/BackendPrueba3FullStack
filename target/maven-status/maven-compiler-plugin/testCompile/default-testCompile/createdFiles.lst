@@ -1,0 +1,3 @@
+com\esportsarena\api\security\JwtServiceTest.class
+com\esportsarena\api\service\InscripcionServiceTest.class
+com\esportsarena\api\security\SeguridadIntegracionTest.class
